@@ -1,4 +1,5 @@
-# Project Name Here
+# RhymeBuddy
+Connecting, Sharing, Listening
 ***
 ## Link To Project Proposal
 [Proposal](https://github.com/UQdeco3500/Epico/wiki/1.-Proposal)
