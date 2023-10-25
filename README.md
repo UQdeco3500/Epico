@@ -1,8 +1,7 @@
 # Project Name Here
 ***
 ## Link To Project Proposal
-link to wiki page here containing proposal slides
-
+[Proposal](https://github.com/UQdeco3500/Epico/wiki/1.-Proposal)
 ## Link to Design Process Overview
 [Team Wiki
 ](https://github.com/UQdeco3500/Epico/wiki)
