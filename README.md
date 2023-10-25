@@ -7,4 +7,4 @@ link to wiki page here containing proposal slides
 [Team Wiki
 ](https://github.com/UQdeco3500/Epico/wiki)
 ## Link to Working Prototype, Promotional Material, and Documentation  
-link to relevant links for prototype, promotional material & documentation
+[Prototype](https://thisurasenarath.itch.io/epicoo)
